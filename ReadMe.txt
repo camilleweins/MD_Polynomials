@@ -1,7 +1,7 @@
 ========================================================================
     CONSOLE APPLICATION : MD_Polynomials Project Overview
 ========================================================================
-
+//
 AppWizard has created this MD_Polynomials application for you.
 
 This file contains a summary of what you will find in each of the files that
